@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3600"
+   height="900"
+   viewBox="0 0 952.5 238.12499"
+   version="1.1"
+   id="svg517"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Protostar.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview519"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.4204826"
+     inkscape:cx="1996.5154"
+     inkscape:cy="890.64328"
+     inkscape:window-width="2344"
+     inkscape:window-height="1467"
+     inkscape:window-x="2844"
+     inkscape:window-y="775"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs514">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient864">
+      <stop
+         style="stop-color:#6f01ff;stop-opacity:1;"
+         offset="0"
+         id="stop860" />
+      <stop
+         style="stop-color:#369cff;stop-opacity:1;"
+         offset="1"
+         id="stop862" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient864"
+       id="linearGradient242"
+       gradientUnits="userSpaceOnUse"
+       x1="58.592503"
+       y1="224.97307"
+       x2="958.21368"
+       y2="224.97299" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient864"
+       id="linearGradient244"
+       gradientUnits="userSpaceOnUse"
+       x1="58.592503"
+       y1="224.97307"
+       x2="958.21368"
+       y2="224.97299" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient864"
+       id="linearGradient325"
+       gradientUnits="userSpaceOnUse"
+       x1="58.592503"
+       y1="224.97307"
+       x2="958.21368"
+       y2="224.97299"
+       gradientTransform="translate(-32.288507,-95.166457)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient864"
+       id="linearGradient329"
+       gradientUnits="userSpaceOnUse"
+       x1="58.592503"
+       y1="224.97307"
+       x2="958.21368"
+       y2="224.97299"
+       gradientTransform="translate(-11.838756,-118.26588)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:178.351px;line-height:1.25;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans';fill:url(#linearGradient325);fill-opacity:1;stroke-width:0.362501"
+       x="29.683626"
+       y="148.70337"
+       id="text656"><tspan
+         sodipodi:role="line"
+         id="tspan654"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:178.351px;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans';fill:url(#linearGradient325);fill-opacity:1;stroke-width:0.362501"
+         x="29.683626"
+         y="148.70337">PROTOSTAR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.0087px;line-height:1.25;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans';letter-spacing:-1.41023px;word-spacing:10.5833px;fill:url(#linearGradient329);fill-opacity:1;stroke-width:0.618076"
+       x="123.77497"
+       y="208.95438"
+       id="text656-3"><tspan
+         sodipodi:role="line"
+         id="tspan654-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.0087px;font-family:'Alegreya Sans';-inkscape-font-specification:'Alegreya Sans';fill:url(#linearGradient329);fill-opacity:1;stroke-width:0.618076"
+         x="123.77497"
+         y="208.95438">Broken Source Software Monorepo</tspan></text>
+  </g>
+</svg>
